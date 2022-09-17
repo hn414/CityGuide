@@ -1,15 +1,15 @@
 {
   "expo": {
     "name": "CityGuide",
-    "slug": "CityGuide",
+    "slug": "cityguide-hn719414",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./images/chicago.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./images/chicagoSplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ede2e0"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
